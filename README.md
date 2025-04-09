@@ -1,3 +1,30 @@
+Gerador de Senhas com interface intuitiva, visual moderno e responsivo. Facilitando o usuário na criação de senhas
+
+Composto por: 
+- Tamanho da senha
+- Inclusão de letras maiúsculas
+- Números
+- Símbolos
+- Botão para o usuário copiar
+
+
+🛠️ Tecnologias & Ferramentas Utilizadas:
+
+- Next.js 14
+- React com Hooks
+- TypeScript
+- Tailwind CSS 
+- Material UI (MUI) – para componentes como botões, slider e checkbox
+- Vercel – para deploy 
+
+
+🌐 Projeto hospedado na Vercel:
+🔗 Link do projeto
+
+
+
+----------
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started

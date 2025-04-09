@@ -19,7 +19,7 @@ Composto por:
 
 
 🌐 Projeto hospedado na Vercel:
-🔗 Link do projeto
+🔗 [Gerador de Senhas](https://generate-password-mu.vercel.app/)
 
 
 

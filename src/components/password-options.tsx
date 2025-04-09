@@ -1,4 +1,9 @@
-import { FormControlLabel, Checkbox, Typography, FormGroup } from "@mui/material";
+import {
+  FormControlLabel,
+  Checkbox,
+  Typography,
+  FormGroup,
+} from "@mui/material";
 
 type PasswordOptionsProps = {
   includeUppercase: boolean;
@@ -19,7 +24,10 @@ export default function PasswordOptions({
 }: PasswordOptionsProps) {
   return (
     <>
-      <FormGroup row sx={{justifyContent: "center"}}>
+      <FormGroup
+        row
+        className="flex sm:flex-row justify-center items-start sm:items-center mt-4"
+      >
         <FormControlLabel
           control={
             <Checkbox
@@ -51,6 +59,6 @@ export default function PasswordOptions({
           label="Símbolos"
         />
       </FormGroup>
-      </>
+    </>
   );
 }

@@ -1,4 +1,4 @@
-Gerador de Senhas com interface intuitiva, visual moderno e responsivo. Facilitando o usuário na criação de senhas
+Gerador de Senhas, facilitando o usuário na criação de senhas
 
 Composto por: 
 - Tamanho da senha
